@@ -5,7 +5,6 @@
   "scripts": {
     "build": "./bin/build.sh"
   },
-  "main": "lib/server.js",
   "license": "MIT",
   "dependencies": {
     "babel": "6.23.0",
