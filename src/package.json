@@ -1,0 +1,7 @@
+{
+	"name": "mini-hapi",
+	"version": "0.0.1",
+	"dependencies": {
+    "hapi": "^17.4.0"
+  }
+}

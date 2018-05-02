@@ -1,0 +1,16 @@
+{
+  "name": "mini-node-babel",
+  "version": "0.0.1",
+  "description": "Simple Node.js Application with Babel",
+  "scripts": {
+    "build": "./bin/build.sh"
+  },
+  "main": "lib/server.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "6.23.0",
+    "babel-cli": "6.23.0",
+    "babel-plugin-transform-runtime": "6.23.0",
+    "babel-preset-env": "1.6.1"
+  }
+}
